@@ -1,6 +1,8 @@
 <!-- This is a repo used for teaching git basics.  -->
 
 
+clouds
+
         v🍎.   ._, |_  .,
             `-._\/  .  \ /    |/_
                 \\ 🍎_\, y | \//🍎
